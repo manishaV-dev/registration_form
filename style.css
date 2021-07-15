@@ -17,7 +17,7 @@ font-family: 'Varela Round', sans-serif;*/
 }
 
 body{
-	background-image: var(--lightCol), url(./image/pic8.jpg);
+	background-image: var(--lightCol), url(pic8.jpg);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	font-family: var(--myfont);
